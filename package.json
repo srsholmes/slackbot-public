@@ -1,0 +1,21 @@
+{
+  "name": "slack-define",
+  "version": "0.0.0",
+  "description": "Dictionary for Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.6.1",
+    "body-parser": "~1.4.3",
+    "node-slack": "0.0.4",
+    "request": "~2.37.0",
+    "xml2js": "~0.4.4",
+    "cheerio": "~0.17.0",
+    "zombie": "~2.0.0-alpha31",
+    "node-tesseract": "~0.2.6"
+  }
+}
